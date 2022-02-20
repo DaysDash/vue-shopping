@@ -1,6 +1,6 @@
 # shopping
 
-githubpage: https://daysdash.github.io/list
+githubpage: https://daysdash.github.io/vue-shopping/dist/index.html
 
 ## Project setup
 
